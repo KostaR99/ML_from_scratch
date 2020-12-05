@@ -3,5 +3,5 @@ Implementation of simple ML algorithms
 
 # Algorithms covered:
 
-1) KNN (K-nearest Neighbours)
+1) <a href="/KNNAlgoritam/">KNN</a> (K-nearest Neighbours)
 
