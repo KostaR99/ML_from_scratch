@@ -1,7 +1,8 @@
 # ML_from_scratch
-Implementation of simple ML algorithms
+Implementacija jednostavnih algoritama masinskog ucenja
 
-# Algorithms covered:
+# Obradjeni agloritmi:
 
 1) <a href="/KNNAlgoritam/">KNN</a> (K-nearest Neighbours)
+2) <a href="/LinearnaRegresija/">Linearna regresija</a>
 
