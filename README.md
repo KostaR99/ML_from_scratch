@@ -6,4 +6,5 @@ Implementacija jednostavnih algoritama masinskog ucenja
 1) <a href="/KNNAlgoritam/">KNN</a> (K-nearest Neighbours)
 2) <a href="/LinearnaRegresija/">Linearna regresija</a>
 3) <a href="/logistickaRegresija/">Logisticka regresija</a>
+4) <a href="/Naive Bayes/">Naivni bajesovski klasifikator</a> (Naive bayes)
 
